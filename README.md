@@ -1,4 +1,4 @@
-# Reducing Sloshing Induced Pressure using Baffles | ( Prof. Swapnadip De Chowdhury )  
+# Reducing Sloshing Induced Pressure using Baffles  
 • Implemented baffles, reduced sloshing-induced pressure by 70%, translating to significant cost savings and minimized liabilities
 • Enhanced capacity with SPH simulations in FORTRAN, optimizing storage & financial efficiency by spreading impact over 150% time-span
 • Utilized MATLAB's Statistics, ML and Signal Processing Toolboxes for pressure visualization and optimal baffle height for pressure reduction
